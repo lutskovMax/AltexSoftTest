@@ -4,7 +4,7 @@ $(document).ready(function(){
         items: 1,
 
           dots: true,
-          navText: ["<img src='../../img/prev.png' >", "<img src='../../img/next.png'>"],
+         navText: ["<img src='img/prev.png' >", "<img src='img/next.png'>"],
           nav: true,
           autoplay: true,
           smartSpeed: 900,
